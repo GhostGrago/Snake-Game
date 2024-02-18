@@ -1,5 +1,5 @@
 # Snake Game in C++
-Snake game created using C++ and the graphics.h library.
+This is a Snake game created using C++ and the graphics.h library, feel free to contribute to this code if there can be any improvements.
 
 ![](images/menu.jpg)
 
